@@ -1,0 +1,15 @@
+{
+	"name": "adfdemokedar",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9ab2fe4-d7c6-476f-83a8-7cf2e59d012e",
+		"tenantId": "05fed225-1247-4687-be4a-6183250963f7"
+	}
+}
